@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adf2cfcc-cdd0-4d09-a2ed-bf13de855b5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data types and variables/next happy year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="adf2cfcc-cdd0-4d09-a2ed-bf13de855b5a" name="Changes" comment="data types and variables" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1714289460287</updated>
     </task>
+    <task id="LOCAL−00001" summary="data types and variables">
+      <option name="closed" value="true" />
+      <created>1714418932331</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1714418932331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="data types and variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="data types and variables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
