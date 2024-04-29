@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adf2cfcc-cdd0-4d09-a2ed-bf13de855b5a" name="Changes" comment="data types and variables" />
+    <list default="true" id="adf2cfcc-cdd0-4d09-a2ed-bf13de855b5a" name="Changes" comment="data types and variables">
+      <change afterPath="$PROJECT_DIR$/data types and variables/Chars to String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data types and variables/Elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data types and variables/Integer Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data types and variables/Print Part of the ASCII Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data types and variables/Sum of Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data types and variables/Triples of Latin Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,15 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.next happy year.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Chars to String.executor": "Run",
+    "Python.Elevator.executor": "Run",
+    "Python.Integer Operations.executor": "Run",
+    "Python.Print Part of the ASCII Table.executor": "Run",
+    "Python.Sum of Chars.executor": "Run",
+    "Python.Triples of Latin Letters.executor": "Run",
+    "Python.next happy year.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +92,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1714418932331</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="data types and variables">
+      <option name="closed" value="true" />
+      <created>1714419038045</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1714419038045</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
