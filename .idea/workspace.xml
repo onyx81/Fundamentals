@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adf2cfcc-cdd0-4d09-a2ed-bf13de855b5a" name="Changes" comment="data types and variables">
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Even Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Largest of Three Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Number Between 1 and 100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Number Definer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Patterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Word Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Chat Codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Drink Something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Jenny's Secret Message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Maximum Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test speed performance on pc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/even_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/largest_of_three_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_between_1_and_100.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_definer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_reverse.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +56,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Chars to String.executor": "Run",
+    "Python.Chat Codes.executor": "Run",
     "Python.Elevator.executor": "Run",
     "Python.Even Numbers.executor": "Run",
     "Python.Gladiator Expenses.executor": "Run",
     "Python.Integer Operations.executor": "Run",
+    "Python.Jenny's Secret Message.executor": "Run",
+    "Python.Maximum Multiple.executor": "Run",
     "Python.Number Between 1 and 100.executor": "Run",
     "Python.Number Definer.executor": "Run",
     "Python.Party Profit.executor": "Run",
@@ -138,7 +133,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1714511421892</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="data types and variables">
+      <option name="closed" value="true" />
+      <created>1714589907330</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1714589907330</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
