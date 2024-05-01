@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adf2cfcc-cdd0-4d09-a2ed-bf13de855b5a" name="Changes" comment="data types and variables">
-      <change afterPath="$PROJECT_DIR$/data types and variables/Gladiator Expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data types and variables/Party Profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data types and variables/Snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data types and variables/Water Overflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data types and variables/test123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Largest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Number Between 1 and 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Number Definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Word Reverse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/largest_of_three_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_between_1_and_100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_definer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_reverse.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +65,20 @@
   "keyToString": {
     "Python.Chars to String.executor": "Run",
     "Python.Elevator.executor": "Run",
+    "Python.Even Numbers.executor": "Run",
     "Python.Gladiator Expenses.executor": "Run",
     "Python.Integer Operations.executor": "Run",
+    "Python.Number Between 1 and 100.executor": "Run",
+    "Python.Number Definer.executor": "Run",
     "Python.Party Profit.executor": "Run",
+    "Python.Patterns.executor": "Run",
     "Python.Print Part of the ASCII Table.executor": "Run",
+    "Python.Shopping.executor": "Debug",
     "Python.Snowballs.executor": "Run",
     "Python.Sum of Chars.executor": "Run",
     "Python.Triples of Latin Letters.executor": "Run",
     "Python.Water Overflow.executor": "Run",
+    "Python.Word Reverse.executor": "Run",
     "Python.next happy year.executor": "Run",
     "Python.test123.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -117,7 +131,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1714500385957</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="data types and variables">
+      <option name="closed" value="true" />
+      <created>1714511421892</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1714511421892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +183,15 @@
           <url>file://$PROJECT_DIR$/data types and variables/Gladiator Expenses.py</url>
           <line>8</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Word Reverse.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic Syntax, Conditional Statements, and Loops/Shopping.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
